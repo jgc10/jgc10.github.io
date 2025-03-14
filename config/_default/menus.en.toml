@@ -31,8 +31,8 @@
   weight = 70
 
 #[[main]]
-#  name = "Blog"
-#  url = "https://hack.newhaven.edu"
+#  name = "CTF@CIT"
+#  url = "https://ctf.cyber-cit.club"
 #  weight = 90
 
 # -- Footer Menu --
